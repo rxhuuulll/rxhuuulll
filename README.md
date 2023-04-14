@@ -2,7 +2,7 @@
 
 - :zap: I love math and Computers, so that's how I spend most of my days
 - 📌 More about me at:
-   - 💻 [Personal Portfolio]([portfolio/assets/index.html](https://github.com/rxhuuulll/portfolio/blob/6bee93b5785f86bc5ca2c1d9e91631dd8d99cd52/portfolio/assets/index.html))
+   - 💻 [Personal Portfolio]()
    - 🏢 [LinkedIn](https://www.linkedin.com/in/)
 - 🤙 Contact me at:
    - 📧 [Email](rahul909ar@gmail.com)
